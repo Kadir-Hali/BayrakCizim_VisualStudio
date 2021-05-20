@@ -1,0 +1,26 @@
+C:\Users\candu\OneDrive\Masaüstü\örnekÇizim\bin\Debug\Bezier_Egrisi_Uygulamalari.exe
+C:\Users\candu\OneDrive\Masaüstü\örnekÇizim\bin\Debug\Bezier_Egrisi_Uygulamalari.pdb
+C:\Users\candu\OneDrive\Masaüstü\örnekÇizim\obj\Debug\Bezier_Egrisi_Uygulamalari.csprojResolveAssemblyReference.cache
+C:\Users\candu\OneDrive\Masaüstü\örnekÇizim\obj\Debug\Bezier_Egrisi.AnaForm.resources
+C:\Users\candu\OneDrive\Masaüstü\örnekÇizim\obj\Debug\Bezier_Egrisi.Properties.Resources.resources
+C:\Users\candu\OneDrive\Masaüstü\örnekÇizim\obj\Debug\Bezier_Egrisi_Uygulamalari.csproj.GenerateResource.Cache
+C:\Users\candu\OneDrive\Masaüstü\örnekÇizim\obj\Debug\Bezier_Egrisi_Uygulamalari.exe
+C:\Users\candu\OneDrive\Masaüstü\örnekÇizim\obj\Debug\Bezier_Egrisi_Uygulamalari.pdb
+C:\Users\kadir\Desktop\örnekÇizim\obj\Debug\Bezier_Egrisi_Uygulamalari.exe
+C:\Users\kadir\Desktop\örnekÇizim\obj\Debug\Bezier_Egrisi_Uygulamalari.pdb
+C:\Users\kadir\Desktop\örnekÇizim\bin\Debug\Bezier_Egrisi_Uygulamalari.exe
+C:\Users\kadir\Desktop\örnekÇizim\bin\Debug\Bezier_Egrisi_Uygulamalari.pdb
+C:\Users\kadir\Desktop\örnekÇizim\obj\Debug\Bezier_Egrisi_Uygulamalari.csprojResolveAssemblyReference.cache
+C:\Users\kadir\Desktop\örnekÇizim\obj\Debug\Bezier_Egrisi.AnaForm.resources
+C:\Users\kadir\Desktop\örnekÇizim\obj\Debug\Bezier_Egrisi.Properties.Resources.resources
+C:\Users\kadir\Desktop\örnekÇizim\obj\Debug\Bezier_Egrisi_Uygulamalari.csproj.GenerateResource.Cache
+C:\Users\kadir\Desktop\TÜRK BAYRAĞI\obj\Debug\Bezier_Egrisi_Uygulamalari.exe
+C:\Users\kadir\Desktop\TÜRK BAYRAĞI\obj\Debug\Bezier_Egrisi_Uygulamalari.pdb
+C:\Users\kadir\Desktop\1921012019 ABDULKADİR HALI\obj\Debug\Bezier_Egrisi_Uygulamalari.exe
+C:\Users\kadir\Desktop\1921012019 ABDULKADİR HALI\obj\Debug\Bezier_Egrisi_Uygulamalari.pdb
+C:\Users\kadir\Desktop\1921012019 ABDULKADİR HALI\bin\Debug\Bezier_Egrisi_Uygulamalari.exe
+C:\Users\kadir\Desktop\1921012019 ABDULKADİR HALI\bin\Debug\Bezier_Egrisi_Uygulamalari.pdb
+C:\Users\kadir\Desktop\1921012019 ABDULKADİR HALI\obj\Debug\Bezier_Egrisi_Uygulamalari.csprojResolveAssemblyReference.cache
+C:\Users\kadir\Desktop\1921012019 ABDULKADİR HALI\obj\Debug\Bezier_Egrisi.AnaForm.resources
+C:\Users\kadir\Desktop\1921012019 ABDULKADİR HALI\obj\Debug\Bezier_Egrisi.Properties.Resources.resources
+C:\Users\kadir\Desktop\1921012019 ABDULKADİR HALI\obj\Debug\Bezier_Egrisi_Uygulamalari.csproj.GenerateResource.Cache

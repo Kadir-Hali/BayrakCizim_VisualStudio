@@ -1,0 +1,2 @@
+C:\Users\kadir\Desktop\örnekÇizim\obj\Debug\Bezier_Egrisi_Uygulamalari.exe
+C:\Users\kadir\Desktop\örnekÇizim\obj\Debug\Bezier_Egrisi_Uygulamalari.pdb
